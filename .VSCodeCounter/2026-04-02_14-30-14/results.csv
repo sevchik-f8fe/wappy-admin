@@ -1,0 +1,26 @@
+"filename", "language", "Properties", "JSON", "JavaScript", "HTML", "JavaScript JSX", "Markdown", "CSS", "comment", "blank", "total"
+"c:\Users\TBG\Documents\wappy\admin\.env", "Properties", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2
+"c:\Users\TBG\Documents\wappy\admin\README.md", "Markdown", 0, 0, 0, 0, 0, 9, 0, 0, 8, 17
+"c:\Users\TBG\Documents\wappy\admin\eslint.config.js", "JavaScript", 0, 0, 28, 0, 0, 0, 0, 0, 2, 30
+"c:\Users\TBG\Documents\wappy\admin\index.html", "HTML", 0, 0, 0, 13, 0, 0, 0, 0, 1, 14
+"c:\Users\TBG\Documents\wappy\admin\package-lock.json", "JSON", 0, 4756, 0, 0, 0, 0, 0, 0, 1, 4757
+"c:\Users\TBG\Documents\wappy\admin\package.json", "JSON", 0, 41, 0, 0, 0, 0, 0, 0, 1, 42
+"c:\Users\TBG\Documents\wappy\admin\src\App.jsx", "JavaScript JSX", 0, 0, 0, 0, 38, 0, 0, 0, 4, 42
+"c:\Users\TBG\Documents\wappy\admin\src\components\AuthContainer.jsx", "JavaScript JSX", 0, 0, 0, 0, 24, 0, 0, 0, 3, 27
+"c:\Users\TBG\Documents\wappy\admin\src\components\AuthField.jsx", "JavaScript JSX", 0, 0, 0, 0, 24, 0, 0, 0, 2, 26
+"c:\Users\TBG\Documents\wappy\admin\src\components\ListItem.jsx", "JavaScript JSX", 0, 0, 0, 0, 78, 0, 0, 0, 6, 84
+"c:\Users\TBG\Documents\wappy\admin\src\index.css", "CSS", 0, 0, 0, 0, 0, 0, 27, 0, 7, 34
+"c:\Users\TBG\Documents\wappy\admin\src\main.jsx", "JavaScript JSX", 0, 0, 0, 0, 11, 0, 0, 0, 2, 13
+"c:\Users\TBG\Documents\wappy\admin\src\pages\ErrorPage.jsx", "JavaScript JSX", 0, 0, 0, 0, 32, 0, 0, 0, 3, 35
+"c:\Users\TBG\Documents\wappy\admin\src\pages\auth\AuthHooks.js", "JavaScript", 0, 0, 27, 0, 0, 0, 0, 0, 9, 36
+"c:\Users\TBG\Documents\wappy\admin\src\pages\auth\AuthPage.jsx", "JavaScript JSX", 0, 0, 0, 0, 86, 0, 0, 0, 5, 91
+"c:\Users\TBG\Documents\wappy\admin\src\pages\auth\AuthSlice.js", "JavaScript", 0, 0, 25, 0, 0, 0, 0, 0, 4, 29
+"c:\Users\TBG\Documents\wappy\admin\src\pages\dashboard\DashboardPage.jsx", "JavaScript JSX", 0, 0, 0, 0, 189, 0, 0, 1, 18, 208
+"c:\Users\TBG\Documents\wappy\admin\src\pages\dashboard\DashboardSlice.js", "JavaScript", 0, 0, 25, 0, 0, 0, 0, 0, 4, 29
+"c:\Users\TBG\Documents\wappy\admin\src\util\axiosConfig.js", "JavaScript", 0, 0, 76, 0, 0, 0, 0, 5, 18, 99
+"c:\Users\TBG\Documents\wappy\admin\src\util\globalSlice.js", "JavaScript", 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\TBG\Documents\wappy\admin\src\util\persist.js", "JavaScript", 0, 0, 36, 0, 0, 0, 0, 0, 4, 40
+"c:\Users\TBG\Documents\wappy\admin\src\util\routerHooks.js", "JavaScript", 0, 0, 16, 0, 0, 0, 0, 0, 4, 20
+"c:\Users\TBG\Documents\wappy\admin\src\util\theme.js", "JavaScript", 0, 0, 242, 0, 0, 0, 0, 0, 1, 243
+"c:\Users\TBG\Documents\wappy\admin\vite.config.js", "JavaScript", 0, 0, 13, 0, 0, 0, 0, 2, 2, 17
+"Total", "-", 2, 4797, 504, 13, 482, 9, 27, 8, 112, 5954

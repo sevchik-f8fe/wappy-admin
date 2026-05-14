@@ -1,0 +1,63 @@
+Date : 2026-04-02 14:34:04
+Directory : c:\Users\TBG\Documents\wappy\admin
+Total : 24 files,  5834 codes, 368 comments, 127 blanks, all 6329 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| JSON           |          2 |      4,797 |          0 |          2 |      4,799 |
+| JavaScript     |         10 |        504 |        192 |         58 |        754 |
+| JavaScript JSX |          8 |        482 |        176 |         51 |        709 |
+| CSS            |          1 |         27 |          0 |          7 |         34 |
+| HTML           |          1 |         13 |          0 |          1 |         14 |
+| Markdown       |          1 |          9 |          0 |          8 |         17 |
+| Properties     |          1 |          2 |          0 |          0 |          2 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                     | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                        |         24 |      5,834 |        368 |        127 |      6,329 |
+| . (Files)                                                                |          7 |      4,862 |          2 |         15 |      4,879 |
+| src                                                                      |         17 |        972 |        366 |        112 |      1,450 |
+| src (Files)                                                              |          3 |         76 |         38 |         15 |        129 |
+| src\components                                                           |          3 |        126 |         63 |         14 |        203 |
+| src\pages                                                                |          6 |        384 |        143 |         48 |        575 |
+| src\pages (Files)                                                        |          1 |         32 |         15 |          4 |         51 |
+| src\pages\auth                                                           |          3 |        138 |         75 |         20 |        233 |
+| src\pages\dashboard                                                      |          2 |        214 |         53 |         24 |        291 |
+| src\util                                                                 |          5 |        386 |        122 |         35 |        543 |
++--------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                 | language       | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| c:\Users\TBG\Documents\wappy\admin\.env                                  | Properties     |          2 |          0 |          0 |          2 |
+| c:\Users\TBG\Documents\wappy\admin\README.md                             | Markdown       |          9 |          0 |          8 |         17 |
+| c:\Users\TBG\Documents\wappy\admin\eslint.config.js                      | JavaScript     |         28 |          0 |          2 |         30 |
+| c:\Users\TBG\Documents\wappy\admin\index.html                            | HTML           |         13 |          0 |          1 |         14 |
+| c:\Users\TBG\Documents\wappy\admin\package-lock.json                     | JSON           |      4,756 |          0 |          1 |      4,757 |
+| c:\Users\TBG\Documents\wappy\admin\package.json                          | JSON           |         41 |          0 |          1 |         42 |
+| c:\Users\TBG\Documents\wappy\admin\src\App.jsx                           | JavaScript JSX |         38 |         21 |          5 |         64 |
+| c:\Users\TBG\Documents\wappy\admin\src\components\AuthContainer.jsx      | JavaScript JSX |         24 |         19 |          4 |         47 |
+| c:\Users\TBG\Documents\wappy\admin\src\components\AuthField.jsx          | JavaScript JSX |         24 |         20 |          3 |         47 |
+| c:\Users\TBG\Documents\wappy\admin\src\components\ListItem.jsx           | JavaScript JSX |         78 |         24 |          7 |        109 |
+| c:\Users\TBG\Documents\wappy\admin\src\index.css                         | CSS            |         27 |          0 |          7 |         34 |
+| c:\Users\TBG\Documents\wappy\admin\src\main.jsx                          | JavaScript JSX |         11 |         17 |          3 |         31 |
+| c:\Users\TBG\Documents\wappy\admin\src\pages\ErrorPage.jsx               | JavaScript JSX |         32 |         15 |          4 |         51 |
+| c:\Users\TBG\Documents\wappy\admin\src\pages\auth\AuthHooks.js           | JavaScript     |         27 |         23 |          9 |         59 |
+| c:\Users\TBG\Documents\wappy\admin\src\pages\auth\AuthPage.jsx           | JavaScript JSX |         86 |         28 |          6 |        120 |
+| c:\Users\TBG\Documents\wappy\admin\src\pages\auth\AuthSlice.js           | JavaScript     |         25 |         24 |          5 |         54 |
+| c:\Users\TBG\Documents\wappy\admin\src\pages\dashboard\DashboardPage.jsx | JavaScript JSX |        189 |         32 |         19 |        240 |
+| c:\Users\TBG\Documents\wappy\admin\src\pages\dashboard\DashboardSlice.js | JavaScript     |         25 |         21 |          5 |         51 |
+| c:\Users\TBG\Documents\wappy\admin\src\util\axiosConfig.js               | JavaScript     |         76 |         26 |         19 |        121 |
+| c:\Users\TBG\Documents\wappy\admin\src\util\globalSlice.js               | JavaScript     |         16 |         18 |          4 |         38 |
+| c:\Users\TBG\Documents\wappy\admin\src\util\persist.js                   | JavaScript     |         36 |         22 |          5 |         63 |
+| c:\Users\TBG\Documents\wappy\admin\src\util\routerHooks.js               | JavaScript     |         16 |         21 |          5 |         42 |
+| c:\Users\TBG\Documents\wappy\admin\src\util\theme.js                     | JavaScript     |        242 |         35 |          2 |        279 |
+| c:\Users\TBG\Documents\wappy\admin\vite.config.js                        | JavaScript     |         13 |          2 |          2 |         17 |
+| Total                                                                    |                |      5,834 |        368 |        127 |      6,329 |
++--------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
